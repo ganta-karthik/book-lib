@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/booklib/static/css/main.434d4570.css",
-    "main.js": "/booklib/static/js/main.88ede3e5.js",
-    "static/media/cover_not_found.jpg": "/booklib/static/media/cover_not_found.69846940c7af3e651508.jpg",
-    "static/media/library-img.jpg": "/booklib/static/media/library-img.40dcdfcc336ff1917698.jpg",
-    "static/media/about-img.jpg": "/booklib/static/media/about-img.bd99a1848e6efe8cf62b.jpg",
-    "index.html": "/booklib/index.html",
-    "static/media/loader.svg": "/booklib/static/media/loader.a3343f12420f3160e32c5317638f2198.svg",
-    "main.434d4570.css.map": "/booklib/static/css/main.434d4570.css.map",
-    "main.88ede3e5.js.map": "/booklib/static/js/main.88ede3e5.js.map"
+    "main.css": "/book-lib/static/css/main.3017a65c.css",
+    "main.js": "/book-lib/static/js/main.f7ddb8b0.js",
+    "static/media/cover_not_found.jpg": "/book-lib/static/media/cover_not_found.69846940c7af3e651508.jpg",
+    "static/media/library-img.jpg": "/book-lib/static/media/library-img.40dcdfcc336ff1917698.jpg",
+    "static/media/about-img.jpg": "/book-lib/static/media/about-img.bd99a1848e6efe8cf62b.jpg",
+    "index.html": "/book-lib/index.html",
+    "static/media/loader.svg": "/book-lib/static/media/loader.a3343f12420f3160e32c5317638f2198.svg",
+    "main.3017a65c.css.map": "/book-lib/static/css/main.3017a65c.css.map",
+    "main.f7ddb8b0.js.map": "/book-lib/static/js/main.f7ddb8b0.js.map"
   },
   "entrypoints": [
-    "static/css/main.434d4570.css",
-    "static/js/main.88ede3e5.js"
+    "static/css/main.3017a65c.css",
+    "static/js/main.f7ddb8b0.js"
   ]
 }
